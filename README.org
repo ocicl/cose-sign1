@@ -4,6 +4,6 @@ COSE_Sign1 implementation (Ed25519/ECDSA) for Common Lisp.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/nathanvy/cose-sign1.git       |
-| commit  | 0000000                                              |
+| commit  | 6a00ed1                                              |
 | systems | cose                                                 |
 |---------+------------------------------------------------------|
